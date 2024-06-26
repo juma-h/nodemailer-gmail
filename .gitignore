@@ -1,0 +1,8 @@
+# Environment variable files
+.env
+
+# Node.js dependencies
+node_modules/
+
+#js file 
+sendEmail.js
